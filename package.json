@@ -1,0 +1,16 @@
+{
+    "name": "pc",
+    "version": "1.0.0",
+    "description": "My HeatPump Control",
+    "private": true,
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.2",
+        "luxtronik2": "^2.7.1"
+    }
+}
